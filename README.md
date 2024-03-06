@@ -1,1 +1,1 @@
-My Java ObjectOrientedPrograming class final project. you may have to change for your computer.
+My Java ObjectOrientedPrograming class final project. Tested on Ubuntu Linux.
